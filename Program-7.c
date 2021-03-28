@@ -13,10 +13,18 @@
 	int main()
 	{
 	 //Declare the variables
+<<<<<<< HEAD
 	  int num1,num2;
 	   printf("Enter num1:");
 	   scanf("%d",&num1);
 	   num2=increment(num1);
 	   printf("num2 value is.%d",num2);//enter the missing data
+=======
+   int num1,num2;
+	   printf("Enter num1:");
+	   scanf("%d",&num1);
+	   num2=increment(num1);
+	   printf("num2 value is.%d",num2); //enter the missing data
+>>>>>>> origin/main
 	   return 0;
 	}
